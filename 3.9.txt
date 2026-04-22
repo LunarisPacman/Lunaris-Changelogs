@@ -19,7 +19,7 @@
 - Added deptheffect wallpaper
 - Fixed Quick Settings lag when having too many notifications
 - [Source changes](https://t.me/lunaris_dailyUP/752) Scroll till April 20th "pushed" message
-
+- Added @Superuser1958 imlementation of glyph interface.
 Most of these changes have been now pushed to source after i added them manually and sent it to the lead dev of lunaris..
 
 
